@@ -1,4 +1,4 @@
-# Settings tested with clang-format 16
+# Settings tested with clang-format 16-
 
 AccessModifierOffset: -4
 AllowShortBlocksOnASingleLine: Always
